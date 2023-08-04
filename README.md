@@ -22,7 +22,7 @@
 - <a href="#">Automated UI Testing</a>
 - <a href="#">Co-Manager: Community Management Platform</a>
 - <a href="https://github.com/yey-R/video-browse">Video Platform App</a>/yey-R/video-browse">Video Platform App</a>
-- <a href="https://github.com/yey-R/weather-app">Weather App</a>[]()
+- <a href="https://github.com/yey-R/weather-app">Weather App</a>
 - <a href="https://github.com/rukavichka/SP22_Gruppe_Assmann_Kizik_Mandt_Yazici">Marburg University Mobile App</a>
 
 
