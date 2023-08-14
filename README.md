@@ -38,20 +38,3 @@
   <img align="center" alt="Emre's Github" height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" color="white"/>
 </a>
 <p/>
-
-<br/>
-<br/>
-
-
-
-## :trophy: My Github Stats:
-<div align="center">
-<br />
-<a href="https://github-readme-stats.vercel.app/api?username=yey-R&theme=radical">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=yey-R&theme=radical" />
-</a>
-<br />
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yey-R&theme=radical">
-  <img align="left" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yey-R&theme=radical" />
-</a>
-</div>
