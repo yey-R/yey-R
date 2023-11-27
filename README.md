@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ## :boy: About me:
-- 🔭 I’m a software developer at AllMediaDesk GmbH.
 - 🧰 I graduated from Hacettepe University, Computer Science
 - 💬 You can ask me anything.
 
